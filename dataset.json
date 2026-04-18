@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in Fresno, US",
-  "export_job_id": "84e7fe1a-1818-485f-89c7-fbd66c7f39dc",
+  "export_job_id": "2ad9be54-dbd8-4fc8-a108-75abce027135",
   "github_org": "Beamstation-Datasets",
   "id_short": 906050,
   "location_name": "Fresno",
   "location_type": "city",
   "repo_name": "top-30-active-restaurant-whales-in-fresno-us-sample-906050",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/906050/beamstation_906050_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 10.41,
+  "sample_pct": 9.86,
   "sample_records": 43,
   "sample_sha256": "3c99958bb482ef1073033b25da16068f1a8122f64eec2ab4901c17051170f441",
   "sample_size_bytes": 193840,
-  "total_records": 413,
-  "updated_at": "2026-04-07T17:47:55.759659+00:00"
+  "total_records": 436,
+  "updated_at": "2026-04-14T23:21:01.620446+00:00"
 }
