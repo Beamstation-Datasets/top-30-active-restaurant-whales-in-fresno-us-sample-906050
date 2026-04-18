@@ -1,12 +1,12 @@
 {
-  "export_job_id": "84e7fe1a-1818-485f-89c7-fbd66c7f39dc",
+  "export_job_id": "2ad9be54-dbd8-4fc8-a108-75abce027135",
   "id_short": 906050,
-  "published_at": "2026-04-15T19:20:34Z",
+  "published_at": "2026-04-18T20:01:50Z",
   "repo_name": "top-30-active-restaurant-whales-in-fresno-us-sample-906050",
   "sample_asset_name": "beamstation_906050_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/906050/beamstation_906050_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 43,
   "sample_sha256": "3c99958bb482ef1073033b25da16068f1a8122f64eec2ab4901c17051170f441",
   "sample_size_bytes": 193840,
-  "total_records": 413
+  "total_records": 436
 }
