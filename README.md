@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Fresno, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `906050` |
 | Location | Fresno |
 | Category | Restaurants |
-| Full dataset size | 335 records |
-| Free sample size | 33 records (9.85%) |
-| Last export | 2026-04-22T02:44:33.750599+00:00 |
+| Full dataset size | 102 records |
+| Free sample size | 10 records (9.8%) |
+| Last export | 2026-04-29T05:42:04.760905+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-fresno-us-sample-906050/releases/download/sample-latest/beamstation_906050_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
